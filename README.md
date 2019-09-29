@@ -2,8 +2,10 @@
 
 ============Manually Install PIP in Server [If Not Installed]=======
 
-#wget https://bootstrap.pypa.io/get-pip.py
+#wget https://bootstrap.pypa.io/get-pip.py 
+
 #python get-pip.py
+
 #pip2 install ansible
 
 
